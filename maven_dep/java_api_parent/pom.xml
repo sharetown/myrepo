@@ -21,7 +21,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <junit.driver.version>4.11</junit.driver.version>
+        <junit.driver.version>4.13.1</junit.driver.version>
         <mysql.driver.version>8.0.18</mysql.driver.version>
         <mybatis.driver.version>3.5.3</mybatis.driver.version>
     </properties>
